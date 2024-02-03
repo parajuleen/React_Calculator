@@ -1,0 +1,27 @@
+.calculator{
+    border: 2px solid rgb(204, 196, 196);
+    width: 300px;
+     margin:10% auto;
+    /* background: linear-gradient(red,blue,rgb(195, 195, 189),green); */
+    background: linear-gradient(0.25turn, #b2ced9, #a6aba3, #eeddcc);
+
+}
+.calciinput{
+    margin:10px;
+    font-size:20px;
+    width:260px;
+    height:50px;  
+}
+
+.buttonContainer{
+    justify-content: center;
+    align-items: center;
+}
+ .numberButton{
+    font-size:25px;
+    border:1px solid rgb(122, 114, 114);
+    margin:3px;
+    width:50px;
+    height:50px;
+
+ }
